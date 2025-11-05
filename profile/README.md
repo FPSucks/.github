@@ -1,6 +1,6 @@
 <div align="center">
 
-![FP Sucks](../../public/branding/raster/Banner%20GitHub%20Rojo.png)
+![FP Sucks](https://github.com/FPSucks/.github/blob/main/FPSucks_Resources_PNG/Banner%20GitHub%20Rojo.png)
 
 # 🔥 **Bienvenido a FP Sucks**
 
